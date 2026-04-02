@@ -129,7 +129,7 @@
     function changerReseaux(element) {
         document.getElementById('titre').innerHTML = "LINKS";
         document.getElementById('description').innerHTML = `
-            <a href="https://www.tiktok.com/@lounala_62" target="_blank" class="social-link">🎵 TikTok</a>
+            <a href="[https://www.tiktok.com/@lounala_62](https://www.tiktok.com/@lounala_62)" target="_blank" class="social-link">🎵 TikTok</a>
             <a href="https://www.twitch.tv/lounala_62" target="_blank" class="social-link">💜 Twitch</a>
             <a href="https://www.youtube.com/@Lounala_62" target="_blank" class="social-link">🎬 YouTube</a>
         `;
